@@ -14,6 +14,8 @@ submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
 16292283569 - Mausoleum - Made start wall CanCollide True
 16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice)
+1258610833 - Brain Power - fixed oob, wipe faste (jid)
+16848148618 - Trikz Cloud - fixed oob, delete auto wr and wipe faste (jid)
 
 tested, pending upload:
 
