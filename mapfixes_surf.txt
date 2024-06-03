@@ -18,6 +18,8 @@ submitted fixes (wipe times):
 17621471458 - Mane Six - Fix oob (only delete faste and 1st place auto)
 14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
 14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
+16848148618- Trikz Cloud - Fix oob (wipe faste and delete auto wr) - jid
+1258610833 - Brain Power - Fix oob (wipe faste) - jid
 
 tested, pending upload:
 
